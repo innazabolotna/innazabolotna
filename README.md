@@ -1,6 +1,6 @@
 Hi there 👋
-👩🏻‍💻 About me
 
+👩🏻‍💻 About me
 
 I am a full-stack developer, with focus on frontend, and founder from Ukraine 🇺🇦 
 
