@@ -9,9 +9,7 @@ I am a full-stack developer, with focus on frontend, and founder from Ukraine �
 * 📫 How to reach me: 
  http://www.linkedin.com/in/inna-zabolotna
 
-🔧 Technologies and tools
-
-TECHNICAL SKILLS
+🔧 TECHNICAL SKILLS
 
 Languages: Python, C#, Javascript(Node.js), HTML, CSS
 
