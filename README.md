@@ -11,4 +11,10 @@ I am a full-stack developer, with focus on frontend, and founder from Ukraine ðŸ
 
 ðŸ”§ Technologies and tools
 
-Javascript, Python, C#, HTML, CSS | Flask, Jinja2 | MySQL | AJAX, API, JSON, AWS(EC2), Git 
+TECHNICAL SKILLS
+Languages: Python, C#, Javascript(Node.js), HTML, CSS
+Libraries/Frameworks: Flask, Jinja2, Spring Boot, jQuery, React, Express, React Native, Bootstrap, Material-UI, .NET
+Databases: MySQL, SQL, MangoDB, Mongoose, Amazon DynamoDB,  GraphQL,  MySQL Workbench
+Tools: AJAX, Spring Tool Suite, API, AWS Amplify, JSON, PostMan, Socket.io, AWS(EC2), Git, Github 
+
+
